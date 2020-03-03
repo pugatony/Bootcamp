@@ -1,0 +1,58 @@
+/**
+ * Float Layout Activity
+ **/
+
+* {
+  text-align: center;
+}
+
+body {
+  
+}
+
+header {
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #333;
+  background: #ccc;
+}
+
+.navigationFlex
+{
+    display:flex;
+    justify-content: space-between;
+}
+.navigationFlex > div {
+    flex: 1;
+    padding:10px;
+    background:#666666;
+    margin: 0 10px;
+}
+
+.blogFlex{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+
+.blogFlex>div {
+    flex-grow: 1;
+    width: 30%;
+    height: 100px;
+    margin:10px
+  }
+  
+  .blogFlex>div:nth-child(even) {
+    background: #23a;
+  }
+  
+  .blogFlex>div:nth-child(odd) {
+    background: #49b;
+  }
+
+footer {
+  padding:20px;
+  clear:both;
+  background: #FFA500;
+}

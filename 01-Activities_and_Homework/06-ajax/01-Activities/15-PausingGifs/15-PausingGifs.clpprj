@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="/home/antonio/GTSAV201811ONLINE1/01-Activities_and_Homework/06-ajax/01-Activities/15-PausingGifs/15-PausingGifs.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="/home/antonio/GTSAV201811ONLINE1/01-Activities_and_Homework/06-ajax/01-Activities/15-PausingGifs/Unsolved/pausing-gifs.html"/>
+  <file name="/home/antonio/GTSAV201811ONLINE1/01-Activities_and_Homework/06-ajax/01-Activities/15-PausingGifs/Unsolved/pausing-gifs.html"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file name="/home/antonio/GTSAV201811ONLINE1/01-Activities_and_Homework/06-ajax/01-Activities/15-PausingGifs/Unsolved/pausing-gifs.html" crc="1545353235696"/>
+  <file name="/home/antonio/GTSAV201811ONLINE1/01-Activities_and_Homework/06-ajax/01-Activities/15-PausingGifs/Solved/pausing-gifs-solution.html" crc="1547910355082"/>
+ </filescache>
+</project>
